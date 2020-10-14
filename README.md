@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-//------------------------------------2-----------------------------------------------------------------------------------------------------------
+//---2
         btn_two.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-//---------------------------------3------------------------------------------------------------------------------------
+//---3
         btn_three.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
